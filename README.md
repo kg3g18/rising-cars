@@ -1,0 +1,1 @@
+These files include a study into car sales prior to COVID-19 using data from Kaggle. The PPT shows the full study with the word document giving a run down of what I did. The SQL Code has also been uploaded to demonstrate how results were gained.
